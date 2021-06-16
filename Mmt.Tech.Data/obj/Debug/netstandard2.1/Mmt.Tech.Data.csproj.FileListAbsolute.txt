@@ -1,0 +1,3 @@
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Api\bin\netstandard2.1\Mmt.Tech.Data.deps.json
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Api\bin\netstandard2.1\Mmt.Tech.Data.dll
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Api\bin\netstandard2.1\Mmt.Tech.Data.pdb

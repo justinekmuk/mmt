@@ -1,0 +1,9 @@
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\bin\Debug\netstandard2.1\Mmt.Tech.Domain.deps.json
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\bin\Debug\netstandard2.1\Mmt.Tech.Domain.dll
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\bin\Debug\netstandard2.1\Mmt.Tech.Domain.pdb
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\obj\Debug\netstandard2.1\Mmt.Tech.Domain.csprojAssemblyReference.cache
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\obj\Debug\netstandard2.1\Mmt.Tech.Domain.AssemblyInfoInputs.cache
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\obj\Debug\netstandard2.1\Mmt.Tech.Domain.AssemblyInfo.cs
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\obj\Debug\netstandard2.1\Mmt.Tech.Domain.csproj.CoreCompileInputs.cache
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\obj\Debug\netstandard2.1\Mmt.Tech.Domain.dll
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Domain\obj\Debug\netstandard2.1\Mmt.Tech.Domain.pdb

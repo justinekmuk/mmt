@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Api\\Mmt.Tech.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Api\\Mmt.Tech.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Api\\Mmt.Tech.Api.csproj",
+        "projectName": "Mmt.Tech.Api",
+        "projectPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Api\\Mmt.Tech.Api.csproj",
+        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj": {
+                "projectPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj"
+              },
+              "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Services\\Mmt.Tech.Services.csproj": {
+                "projectPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Services\\Mmt.Tech.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj",
+        "projectName": "Mmt.Tech.Data",
+        "projectPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj",
+        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Services\\Mmt.Tech.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Services\\Mmt.Tech.Services.csproj",
+        "projectName": "Mmt.Tech.Services",
+        "projectPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Services\\Mmt.Tech.Services.csproj",
+        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj": {
+                "projectPath": "C:\\MyFolder\\Code\\MMDigital\\Mmt.Tech\\Mmt.Tech\\Mmt.Tech.Data\\Mmt.Tech.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

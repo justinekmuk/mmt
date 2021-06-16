@@ -1,0 +1,9 @@
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\bin\Debug\netstandard2.0\Mmt.Tech.Services.deps.json
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\bin\Debug\netstandard2.0\Mmt.Tech.Services.dll
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\bin\Debug\netstandard2.0\Mmt.Tech.Services.pdb
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\obj\Debug\netstandard2.0\Mmt.Tech.Services.csprojAssemblyReference.cache
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\obj\Debug\netstandard2.0\Mmt.Tech.Services.AssemblyInfoInputs.cache
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\obj\Debug\netstandard2.0\Mmt.Tech.Services.AssemblyInfo.cs
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\obj\Debug\netstandard2.0\Mmt.Tech.Services.csproj.CoreCompileInputs.cache
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\obj\Debug\netstandard2.0\Mmt.Tech.Services.dll
+C:\MyFolder\Code\MMDigital\Mmt.Tech\Mmt.Tech\Mmt.Tech.Services\obj\Debug\netstandard2.0\Mmt.Tech.Services.pdb
